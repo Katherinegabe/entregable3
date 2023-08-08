@@ -1,0 +1,17 @@
+.resident-container {
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body {
+    background-color: rgb(3, 31, 44);
+}
+.container {
+    margin: 30px;
+    text-align: center;
+    color: rgb(196, 193, 193);
+}
+.container h2 {
+    color: rgb(17, 216, 17);
+}
